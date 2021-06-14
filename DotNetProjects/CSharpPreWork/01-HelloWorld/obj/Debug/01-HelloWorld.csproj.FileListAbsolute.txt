@@ -1,0 +1,7 @@
+\\Mac\Home\Desktop\ElevenFiftyProjects\DotNetProjects\CSharpPreWork\01-HelloWorld\bin\Debug\01-HelloWorld.exe.config
+\\Mac\Home\Desktop\ElevenFiftyProjects\DotNetProjects\CSharpPreWork\01-HelloWorld\bin\Debug\01-HelloWorld.exe
+\\Mac\Home\Desktop\ElevenFiftyProjects\DotNetProjects\CSharpPreWork\01-HelloWorld\bin\Debug\01-HelloWorld.pdb
+\\Mac\Home\Desktop\ElevenFiftyProjects\DotNetProjects\CSharpPreWork\01-HelloWorld\obj\Debug\01-HelloWorld.csproj.AssemblyReference.cache
+\\Mac\Home\Desktop\ElevenFiftyProjects\DotNetProjects\CSharpPreWork\01-HelloWorld\obj\Debug\01-HelloWorld.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\ElevenFiftyProjects\DotNetProjects\CSharpPreWork\01-HelloWorld\obj\Debug\01-HelloWorld.exe
+\\Mac\Home\Desktop\ElevenFiftyProjects\DotNetProjects\CSharpPreWork\01-HelloWorld\obj\Debug\01-HelloWorld.pdb

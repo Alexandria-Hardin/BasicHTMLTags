@@ -1,0 +1,7 @@
+\\mac\home\Desktop\ElevenFiftyProjects\DotNetProjects\CSharpPreWork\04_Operators\04_Operators\bin\Debug\04_Operators.exe.config
+\\mac\home\Desktop\ElevenFiftyProjects\DotNetProjects\CSharpPreWork\04_Operators\04_Operators\bin\Debug\04_Operators.exe
+\\mac\home\Desktop\ElevenFiftyProjects\DotNetProjects\CSharpPreWork\04_Operators\04_Operators\bin\Debug\04_Operators.pdb
+\\mac\home\Desktop\ElevenFiftyProjects\DotNetProjects\CSharpPreWork\04_Operators\04_Operators\obj\Debug\04_Operators.csproj.AssemblyReference.cache
+\\mac\home\Desktop\ElevenFiftyProjects\DotNetProjects\CSharpPreWork\04_Operators\04_Operators\obj\Debug\04_Operators.csproj.CoreCompileInputs.cache
+\\mac\home\Desktop\ElevenFiftyProjects\DotNetProjects\CSharpPreWork\04_Operators\04_Operators\obj\Debug\04_Operators.exe
+\\mac\home\Desktop\ElevenFiftyProjects\DotNetProjects\CSharpPreWork\04_Operators\04_Operators\obj\Debug\04_Operators.pdb

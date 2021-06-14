@@ -1,0 +1,7 @@
+\\mac\home\Desktop\ElevenFiftyProjects\DotNetProjects\CSharpPreWork\06_boolean_challenges\06_boolean_challenges\bin\Debug\06_boolean_challenges.exe.config
+\\mac\home\Desktop\ElevenFiftyProjects\DotNetProjects\CSharpPreWork\06_boolean_challenges\06_boolean_challenges\bin\Debug\06_boolean_challenges.exe
+\\mac\home\Desktop\ElevenFiftyProjects\DotNetProjects\CSharpPreWork\06_boolean_challenges\06_boolean_challenges\bin\Debug\06_boolean_challenges.pdb
+\\mac\home\Desktop\ElevenFiftyProjects\DotNetProjects\CSharpPreWork\06_boolean_challenges\06_boolean_challenges\obj\Debug\06_boolean_challenges.csproj.AssemblyReference.cache
+\\mac\home\Desktop\ElevenFiftyProjects\DotNetProjects\CSharpPreWork\06_boolean_challenges\06_boolean_challenges\obj\Debug\06_boolean_challenges.csproj.CoreCompileInputs.cache
+\\mac\home\Desktop\ElevenFiftyProjects\DotNetProjects\CSharpPreWork\06_boolean_challenges\06_boolean_challenges\obj\Debug\06_boolean_challenges.exe
+\\mac\home\Desktop\ElevenFiftyProjects\DotNetProjects\CSharpPreWork\06_boolean_challenges\06_boolean_challenges\obj\Debug\06_boolean_challenges.pdb

@@ -1,0 +1,7 @@
+\\Mac\Home\Desktop\ElevenFiftyProjects\DotNetProjects\CSharpPreWork\02_variables\02_variables\bin\Debug\02_variables.exe.config
+\\Mac\Home\Desktop\ElevenFiftyProjects\DotNetProjects\CSharpPreWork\02_variables\02_variables\bin\Debug\02_variables.exe
+\\Mac\Home\Desktop\ElevenFiftyProjects\DotNetProjects\CSharpPreWork\02_variables\02_variables\bin\Debug\02_variables.pdb
+\\Mac\Home\Desktop\ElevenFiftyProjects\DotNetProjects\CSharpPreWork\02_variables\02_variables\obj\Debug\02_variables.csproj.AssemblyReference.cache
+\\Mac\Home\Desktop\ElevenFiftyProjects\DotNetProjects\CSharpPreWork\02_variables\02_variables\obj\Debug\02_variables.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\ElevenFiftyProjects\DotNetProjects\CSharpPreWork\02_variables\02_variables\obj\Debug\02_variables.exe
+\\Mac\Home\Desktop\ElevenFiftyProjects\DotNetProjects\CSharpPreWork\02_variables\02_variables\obj\Debug\02_variables.pdb

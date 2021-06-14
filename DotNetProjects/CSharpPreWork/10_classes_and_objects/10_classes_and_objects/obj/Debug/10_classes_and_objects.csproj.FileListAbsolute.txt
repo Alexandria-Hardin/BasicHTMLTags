@@ -1,0 +1,7 @@
+\\mac\home\Desktop\ElevenFiftyProjects\DotNetProjects\CSharpPreWork\10_classes_and_objects\10_classes_and_objects\bin\Debug\10_classes_and_objects.exe.config
+\\mac\home\Desktop\ElevenFiftyProjects\DotNetProjects\CSharpPreWork\10_classes_and_objects\10_classes_and_objects\bin\Debug\10_classes_and_objects.exe
+\\mac\home\Desktop\ElevenFiftyProjects\DotNetProjects\CSharpPreWork\10_classes_and_objects\10_classes_and_objects\bin\Debug\10_classes_and_objects.pdb
+\\mac\home\Desktop\ElevenFiftyProjects\DotNetProjects\CSharpPreWork\10_classes_and_objects\10_classes_and_objects\obj\Debug\10_classes_and_objects.csproj.AssemblyReference.cache
+\\mac\home\Desktop\ElevenFiftyProjects\DotNetProjects\CSharpPreWork\10_classes_and_objects\10_classes_and_objects\obj\Debug\10_classes_and_objects.csproj.CoreCompileInputs.cache
+\\mac\home\Desktop\ElevenFiftyProjects\DotNetProjects\CSharpPreWork\10_classes_and_objects\10_classes_and_objects\obj\Debug\10_classes_and_objects.exe
+\\mac\home\Desktop\ElevenFiftyProjects\DotNetProjects\CSharpPreWork\10_classes_and_objects\10_classes_and_objects\obj\Debug\10_classes_and_objects.pdb
