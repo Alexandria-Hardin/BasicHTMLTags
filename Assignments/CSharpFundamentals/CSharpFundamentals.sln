@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31402.337
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "00_TypesandVariables", "00_TypesandVariables\00_TypesandVariables.csproj", "{DFE2C8A5-459D-4D7B-B6E5-777C2D8F54BD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01_ReferenceTypes", "01_ReferenceTypes\01_ReferenceTypes.csproj", "{84D135A7-FA49-4E6C-B988-6A2F1349EC8F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02_Operators", "02_Operators\02_Operators.csproj", "{10181C1E-CA9D-4184-AB86-05FD7F69B4FD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03_Classes", "03_Classes\03_Classes.csproj", "{D7B80BC6-02A0-444B-8E55-6AD30418E1E0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04_Conditionals", "04_Conditionals\04_Conditionals.csproj", "{CF2D0BC2-A7CB-498D-8910-5E50D147A832}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05_Loops", "05_Loops\05_Loops.csproj", "{D591C6FE-1FEC-4B22-B475-419CDFE62E0F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06_Inheritance_Classes", "06_Inheritance_Classes\06_Inheritance_Classes.csproj", "{027FA39B-07FE-4629-A8C5-14BA06B9F0A0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DFE2C8A5-459D-4D7B-B6E5-777C2D8F54BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DFE2C8A5-459D-4D7B-B6E5-777C2D8F54BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DFE2C8A5-459D-4D7B-B6E5-777C2D8F54BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DFE2C8A5-459D-4D7B-B6E5-777C2D8F54BD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{84D135A7-FA49-4E6C-B988-6A2F1349EC8F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84D135A7-FA49-4E6C-B988-6A2F1349EC8F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{84D135A7-FA49-4E6C-B988-6A2F1349EC8F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{84D135A7-FA49-4E6C-B988-6A2F1349EC8F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{10181C1E-CA9D-4184-AB86-05FD7F69B4FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{10181C1E-CA9D-4184-AB86-05FD7F69B4FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{10181C1E-CA9D-4184-AB86-05FD7F69B4FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{10181C1E-CA9D-4184-AB86-05FD7F69B4FD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D7B80BC6-02A0-444B-8E55-6AD30418E1E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D7B80BC6-02A0-444B-8E55-6AD30418E1E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D7B80BC6-02A0-444B-8E55-6AD30418E1E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D7B80BC6-02A0-444B-8E55-6AD30418E1E0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CF2D0BC2-A7CB-498D-8910-5E50D147A832}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF2D0BC2-A7CB-498D-8910-5E50D147A832}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF2D0BC2-A7CB-498D-8910-5E50D147A832}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF2D0BC2-A7CB-498D-8910-5E50D147A832}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D591C6FE-1FEC-4B22-B475-419CDFE62E0F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D591C6FE-1FEC-4B22-B475-419CDFE62E0F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D591C6FE-1FEC-4B22-B475-419CDFE62E0F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D591C6FE-1FEC-4B22-B475-419CDFE62E0F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{027FA39B-07FE-4629-A8C5-14BA06B9F0A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{027FA39B-07FE-4629-A8C5-14BA06B9F0A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{027FA39B-07FE-4629-A8C5-14BA06B9F0A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{027FA39B-07FE-4629-A8C5-14BA06B9F0A0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {479BF845-7F21-450F-A757-46768FD9FC89}
+	EndGlobalSection
+EndGlobal

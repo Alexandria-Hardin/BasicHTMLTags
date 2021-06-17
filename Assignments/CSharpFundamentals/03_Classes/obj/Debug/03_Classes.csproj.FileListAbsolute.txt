@@ -1,0 +1,2 @@
+\\Mac\Home\Desktop\ElevenFiftyProjects\Assignments\CSharpFundamentals\03_Classes\obj\Debug\03_Classes.csproj.AssemblyReference.cache
+\\Mac\Home\Desktop\ElevenFiftyProjects\Assignments\CSharpFundamentals\03_Classes\obj\Debug\03_Classes.csproj.CoreCompileInputs.cache

@@ -1,0 +1,2 @@
+\\Mac\Home\Desktop\ElevenFiftyProjects\Assignments\CSharpFundamentals\04_Conditionals\obj\Debug\04_Conditionals.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\ElevenFiftyProjects\Assignments\CSharpFundamentals\04_Conditionals\obj\Debug\04_Conditionals.csproj.AssemblyReference.cache

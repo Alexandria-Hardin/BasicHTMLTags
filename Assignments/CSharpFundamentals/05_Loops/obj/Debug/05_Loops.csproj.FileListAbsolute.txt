@@ -1,0 +1,14 @@
+\\Mac\Home\Desktop\ElevenFiftyProjects\Assignments\CSharpFundamentals\05_Loops\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+\\Mac\Home\Desktop\ElevenFiftyProjects\Assignments\CSharpFundamentals\05_Loops\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+\\Mac\Home\Desktop\ElevenFiftyProjects\Assignments\CSharpFundamentals\05_Loops\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+\\Mac\Home\Desktop\ElevenFiftyProjects\Assignments\CSharpFundamentals\05_Loops\bin\Debug\05_Loops.dll
+\\Mac\Home\Desktop\ElevenFiftyProjects\Assignments\CSharpFundamentals\05_Loops\bin\Debug\05_Loops.pdb
+\\Mac\Home\Desktop\ElevenFiftyProjects\Assignments\CSharpFundamentals\05_Loops\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+\\Mac\Home\Desktop\ElevenFiftyProjects\Assignments\CSharpFundamentals\05_Loops\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+\\Mac\Home\Desktop\ElevenFiftyProjects\Assignments\CSharpFundamentals\05_Loops\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+\\Mac\Home\Desktop\ElevenFiftyProjects\Assignments\CSharpFundamentals\05_Loops\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+\\Mac\Home\Desktop\ElevenFiftyProjects\Assignments\CSharpFundamentals\05_Loops\obj\Debug\05_Loops.csproj.AssemblyReference.cache
+\\Mac\Home\Desktop\ElevenFiftyProjects\Assignments\CSharpFundamentals\05_Loops\obj\Debug\05_Loops.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\ElevenFiftyProjects\Assignments\CSharpFundamentals\05_Loops\obj\Debug\05_Loops.csproj.CopyComplete
+\\Mac\Home\Desktop\ElevenFiftyProjects\Assignments\CSharpFundamentals\05_Loops\obj\Debug\05_Loops.dll
+\\Mac\Home\Desktop\ElevenFiftyProjects\Assignments\CSharpFundamentals\05_Loops\obj\Debug\05_Loops.pdb

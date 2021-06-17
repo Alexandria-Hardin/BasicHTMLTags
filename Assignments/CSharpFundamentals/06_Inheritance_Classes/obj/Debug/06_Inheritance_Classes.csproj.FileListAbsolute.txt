@@ -1,0 +1,14 @@
+\\Mac\Home\Desktop\ElevenFiftyProjects\Assignments\CSharpFundamentals\06_Inheritance_Classes\obj\Debug\06_Inheritance_Classes.csproj.AssemblyReference.cache
+\\Mac\Home\Desktop\ElevenFiftyProjects\Assignments\CSharpFundamentals\06_Inheritance_Classes\obj\Debug\06_Inheritance_Classes.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\ElevenFiftyProjects\Assignments\CSharpFundamentals\06_Inheritance_Classes\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+\\Mac\Home\Desktop\ElevenFiftyProjects\Assignments\CSharpFundamentals\06_Inheritance_Classes\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+\\Mac\Home\Desktop\ElevenFiftyProjects\Assignments\CSharpFundamentals\06_Inheritance_Classes\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+\\Mac\Home\Desktop\ElevenFiftyProjects\Assignments\CSharpFundamentals\06_Inheritance_Classes\bin\Debug\06_Inheritance_Classes.dll
+\\Mac\Home\Desktop\ElevenFiftyProjects\Assignments\CSharpFundamentals\06_Inheritance_Classes\bin\Debug\06_Inheritance_Classes.pdb
+\\Mac\Home\Desktop\ElevenFiftyProjects\Assignments\CSharpFundamentals\06_Inheritance_Classes\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+\\Mac\Home\Desktop\ElevenFiftyProjects\Assignments\CSharpFundamentals\06_Inheritance_Classes\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+\\Mac\Home\Desktop\ElevenFiftyProjects\Assignments\CSharpFundamentals\06_Inheritance_Classes\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+\\Mac\Home\Desktop\ElevenFiftyProjects\Assignments\CSharpFundamentals\06_Inheritance_Classes\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+\\Mac\Home\Desktop\ElevenFiftyProjects\Assignments\CSharpFundamentals\06_Inheritance_Classes\obj\Debug\06_Inheritance_Classes.csproj.CopyComplete
+\\Mac\Home\Desktop\ElevenFiftyProjects\Assignments\CSharpFundamentals\06_Inheritance_Classes\obj\Debug\06_Inheritance_Classes.dll
+\\Mac\Home\Desktop\ElevenFiftyProjects\Assignments\CSharpFundamentals\06_Inheritance_Classes\obj\Debug\06_Inheritance_Classes.pdb
