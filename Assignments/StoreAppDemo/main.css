@@ -219,3 +219,16 @@ footer a:hover {
     color: #fff;
     text-decoration: underline;
 }
+button  {
+    color: #C64322;
+    background-color: #FFF;
+    display: inline-block;
+    margin: 0 0.75em 0 0;
+    padding: 0.2em 0.5em;
+    border: 1px solid #C64322;
+    text-transform: uppercase;
+}
+button:hover {
+    background-color: #FBF3DB;
+    border: 1px solid #745b2f;
+}
