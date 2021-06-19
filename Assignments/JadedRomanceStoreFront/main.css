@@ -1,0 +1,201 @@
+/*Common elements*/
+body {
+    font-size: 67.5%;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background: white url(image/jadedlogo.jpg) no-repeat fixed top center;
+    padding: 0;
+    margin: 0;
+    -webkit-background-size: 100%;
+    -moz-background-size: 100% 100%;
+    background-size: 100% 100%;
+    -o-background-size: 100% 100%;
+}
+/*Header*/
+h1 {
+    color:black;
+    font-size: 2.0em;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    margin: 0.5em 0 0.5em 0;
+    padding: 0;
+}
+h1 {
+    text-align:center;
+    font-size:larger;
+    margin: 0.5em 0 0.5em 0;
+    padding: 0;
+    color:black;
+    font-family:monospace;
+}
+h3 {
+    margin: 0.5em 0 0.35em 0;
+    padding: 0px;
+    font-size: 2.0em;
+    color: black;
+}
+h6 {
+    color:slategray;
+    font-size: 1.0em;
+    padding: 0px;
+    margin: 0.5em 0 0.35em 0;
+    text-align: center;
+}
+p {
+    font-size: 1.5em;
+    line-height: 1.7em;
+    color: black;
+    padding: 0px;
+    margin: 0px 0.5em 0.75em 0px;
+    text-align: center;
+}
+ul {
+    font-size: 1.2em;
+    margin: 0 0 0 1.0em;
+    padding: 0 0 0 1.0em;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+ul li {
+    margin: 0;
+    padding: 0 0 0.2em;
+}
+a, a:visited {
+    color:steelblue;
+}
+a:hover {
+    color: slategray;
+}
+hr {
+    padding: 0;
+    margin: 2.0em 2.0em 1.5em 1.0em;
+    color: black;
+}
+.contentWrapper {
+    margin: 0 auto;
+    max-width: 1170px;
+    padding: 0 3.0em;
+}
+.left {
+    float: left;
+}
+.right {
+    float: right;
+}
+div.clear {
+    clear: both;
+    font-size: 1%;
+}
+header {
+    padding: 4.0em 0 2.0em;
+    margin: 2.0em 2.0em 4.0em;
+}
+header h1 {
+    font-family:monospace;
+    color:black;
+    font-size: 9.0em;
+    letter-spacing: 0px;
+    margin: 0;
+}
+/*Nav bars*/
+nav {
+    color:white;
+    font-size: 2.0em;
+    letter-spacing: 0.05em;
+    padding: 1.0em 1.0em 0.5em;
+    margin: 1.0em;
+}
+nav ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+nav li {
+    display: inline-block;
+    margin: 0;
+}
+nav ul li::before {
+    content: "| ";
+    padding-right: 0.7em;
+}
+nav li a, nav li a:visited {
+    text-decoration: wavy;
+    color:black;
+    padding: 0.5em 0.7em;
+}
+nav li a:hover {
+    color: slategray;
+    background-color:thistle;
+}
+/*Sidebar Section*/
+section#sidebar {
+    width: 238px;
+    float: left;
+    position: relative;
+    display:block;
+    background-color:rgb(238, 218, 238);
+    margin: 1.5em 0 3.0em 1.5em;
+    padding: 1.7em 0.5em 2.0em 1.7em;
+    border-left: black solid 6px;
+}
+/*Main Section*/
+section #main {
+    margin: 0 0 3.0em;
+    padding: 1.5em 0 2.0em 1.5em;
+    display: inline-block;
+    border-radius: 1em;
+}
+section div.panel {
+    float:right;
+    position:relative;
+    width: 250px;
+    margin: 0 0.5em 2.0em 0.5em;
+    padding: 1.0em;
+    background-color: #fff;
+    border: #ccc solid 1px;
+    border-radius: 1em;
+}
+section div.panel img.clothingPiece {
+    width: 100%;
+}
+/*Footer*/
+footer {
+    background-color: darkgrey;
+    height: 25px;
+    font-size: 1.2em;
+    color: #fff;
+    text-align: center;
+    padding: 1.5em 2.0em;
+}
+footer ul#menuFooter {
+    display: inline-block;
+    list-style: none;
+    margin: 0 0 0 0.6em;
+    padding: 0;
+}
+footer ul li {
+    display: inline-block;
+    padding: 0 0.7em 0 0;
+    margin: 0;
+}
+footer ul li::before {
+    content: "| ";
+    padding-right: 0.7em;
+}
+footer a, footer a:visited {
+    color:#fff;
+    text-decoration: none;
+}
+footer a:hover {
+    color: #fff;
+    text-decoration: underline;
+}
+button {
+    color:slategray;
+    display: inline-block;
+    margin: 0 0.75em 0 0;
+    padding: 0.2em 0.5em;
+    border: 1px solid black;
+    text-transform: uppercase;
+}
+button:hover {
+    background-color: thistle;
+    border: 1px solid black;
+}
