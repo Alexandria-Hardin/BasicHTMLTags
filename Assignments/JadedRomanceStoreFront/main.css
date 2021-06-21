@@ -2,7 +2,6 @@
 body {
     font-size: 67.5%;
     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    background: white url(image/jadedlogo.jpg) no-repeat fixed top center;
     padding: 0;
     margin: 0;
     -webkit-background-size: 100%;
@@ -19,18 +18,32 @@ h1 {
     padding: 0;
 }
 h1 {
-    text-align:center;
+    /* text-align:center;
     font-size:larger;
     margin: 0.5em 0 0.5em 0;
     padding: 0;
     color:black;
-    font-family:monospace;
+    font-family:monospace; */
+    text-align: center;
+    font-size: larger;
+    margin: revert;
+    padding: inherit;
+    color: black;
+    font-family: monospace;
 }
 h3 {
     margin: 0.5em 0 0.35em 0;
     padding: 0px;
     font-size: 2.0em;
     color: black;
+}
+h5 {
+    color: black;
+    font-size: 1.5em;
+    font-family:'Courier New', Courier, monospace;
+    text-align: left;
+    padding: 0px;
+    margin: 0.5em 0 0.35em 0;
 }
 h6 {
     color:slategray;
@@ -98,7 +111,7 @@ header h1 {
 nav {
     color:white;
     font-size: 2.0em;
-    letter-spacing: 0.05em;
+    letter-spacing: 0.20em;
     padding: 1.0em 1.0em 0.5em;
     margin: 1.0em;
 }
@@ -119,6 +132,7 @@ nav li a, nav li a:visited {
     text-decoration: wavy;
     color:black;
     padding: 0.5em 0.7em;
+    font-family: -webkit-body;
 }
 nav li a:hover {
     color: slategray;
@@ -128,7 +142,7 @@ nav li a:hover {
 section#sidebar {
     width: 238px;
     float: left;
-    position: relative;
+    position: absolute;
     display:block;
     background-color:rgb(238, 218, 238);
     margin: 1.5em 0 3.0em 1.5em;
@@ -136,11 +150,16 @@ section#sidebar {
     border-left: black solid 6px;
 }
 /*Main Section*/
-section #main {
-    margin: 0 0 3.0em;
+#main {
+    /* margin: 0 0 3.0em;
+    padding: 1.5em 0 2.0em 1.5em;
+    display:inline-block;
+    border-radius: 1em; */
+    margin: auto;
     padding: 1.5em 0 2.0em 1.5em;
     display: inline-block;
     border-radius: 1em;
+    margin-left: 19%;
 }
 section div.panel {
     float:right;
